@@ -1,0 +1,8 @@
+@article{REPO-250,
+    author = "Chen, Zhiqin and Tagliasacchi, Andrea and Funkhouser, Thomas and Zhang, Hao",
+    journal = "IEEE Conference on Computer Vision and Pattern Recognition",
+    number = "4",
+    title = "{Label-Only Model Inversion Attacks via Boundary Repulsion}",
+    volume = "41",
+    year = "2022"
+}
