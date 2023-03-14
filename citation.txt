@@ -1,4 +1,4 @@
-@article{REPO-250,
+@article{REPO-249,
     author = "Chen, Zhiqin and Tagliasacchi, Andrea and Funkhouser, Thomas and Zhang, Hao",
     journal = "IEEE Conference on Computer Vision and Pattern Recognition",
     number = "4",
